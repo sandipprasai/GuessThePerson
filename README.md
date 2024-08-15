@@ -1,4 +1,4 @@
-# Character Guessing Game
+# Guess The Person Game
 
 This is a Streamlit-based web application that generates a character name and description using Google's Generative AI model. The user has to guess the character's name based on the description provided.
 
