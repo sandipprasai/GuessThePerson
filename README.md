@@ -29,7 +29,7 @@ This is a Streamlit-based web application that generates a character name and de
 
 4. Run the Streamlit app:
     ```bash
-    streamlit run app.py
+    streamlit run guesstheperson.py
     ```
 
 ## Usage
