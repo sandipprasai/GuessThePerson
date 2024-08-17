@@ -24,7 +24,7 @@ This is a Streamlit-based web application that generates a character name and de
 
 3. Set your Google AI Studio API key:
     ```bash
-    export GEMINI_API_KEY=your_api_key
+    os.environ["GEMINI_API_KEY"] = "your_api_key"
     ```
 
 4. Run the Streamlit app:
