@@ -6,7 +6,7 @@ import streamlit as st
 from streamlit_extras.colored_header import colored_header
 from streamlit_extras.add_vertical_space import add_vertical_space
 
-# Set your API key from Google AI Studio
+# We Set our API key from Google AI Studio
 os.environ["GEMINI_API_KEY"] = "your_api_key"
 
 genai.configure(api_key=os.environ["GEMINI_API_KEY"])
